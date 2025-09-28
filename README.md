@@ -1,4 +1,4 @@
-# Design Patters - Padroes Criacionais
+# Design Patterns - Padroes Criacionais
 Atividade de aplicação das estruturas dos padrões criacionais de Design Patterns
 
 ## Tabela de Conteúdos
